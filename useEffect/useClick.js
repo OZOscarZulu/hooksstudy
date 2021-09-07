@@ -1,6 +1,4 @@
-import React, { useState, useEffect, useRef } from "react";
-
-const useClick = (onClick) => {
+export const useClick = (onClick) => {
   if (typeof onClick !== "function") {
     return;
   }
