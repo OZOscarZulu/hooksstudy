@@ -26,7 +26,5 @@ const App = () => {
   );
 };
 
-export default App;
-
 //reference는 component의 어떤 부분을 선택
 //document.getElementById()를 사용한것과 동등

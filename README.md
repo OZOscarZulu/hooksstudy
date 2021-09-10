@@ -5,7 +5,7 @@
 - useTitle
 - useClick
 - usePreventLeave
-- useConfirm
+- useBeforeLeave
 - usePageLeave
 - useuseFadeIn
 - useFullscreen
